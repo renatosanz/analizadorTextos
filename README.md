@@ -72,6 +72,3 @@ Siéntete libre de contribuir a este proyecto enviando una solicitud de extracci
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT.
 
----
-
-Este archivo readme proporciona una descripción general, instrucciones de instalación, notas de uso y enlaces a recursos adicionales, asegurando que los usuarios puedan configurar y ejecutar el analizador de texto de manera efectiva.
