@@ -34,7 +34,7 @@ pip3 install PyPDF2
 ```bash
 pip3 install wordcloud
 # Si surgen problemas, usa el siguiente comando:
-pip install pillow==9.5-0
+pip3 install pillow==9.5-0
 ```
 
 ### Librería de Interfaces
@@ -49,8 +49,8 @@ No se requiere instalación adicional para `pickle`, ya que viene incluido con P
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/yourusername/text-analyzer.git
-   cd analizador
+   git clone https://github.com/renatosanz/analizador Textos.git
+   cd analizadorTextos
    ```
 
 2. Instala las librerías necesarias como se mencionó anteriormente.
