@@ -1,0 +1,34 @@
+Se usa python 3.8.10 - tutorial (https://www.youtube.com/watch?v=cfgdhakkfGY)
+Para ejecutar el proyecto se usa el comando:
+En Windows puede que sea un poco diferente la instalacion
+-> python3 test_menu_prin.py
+
+Este proyecto ocupa las librerias:
+Analisis de textos
+-> pip install --user -U nltk
+-> pip install -U textblob
+
+Matematicas y estadisticas
+-> pip install numpy
+-> pip install matplotlib
+
+Extraccion de texto de pdf
+-> pip install PyPDF2
+
+Generacion de graficas
+-> pip install wordcloud  (de dar problemas instalar pip install pillow==9.5-0)
+
+Interfaces
+-> pip install dearpygui
+
+Guardado y restauracion de datos 
+-> pickle (ya viene con python)
+
+Notas: 
+----La lectura de archivos con la funcion open en windows puede ser diferente a linux
+    fabor de leer esta pagina para solucionarlo en caso de error:
+    https://stackoverflow.com/questions/491921/unicode-utf-8-reading-and-writing-to-files-in-python
+
+----Recuerda instalar todas las dependencias antes de ejecutar el codigo
+
+----
