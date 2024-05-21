@@ -49,7 +49,7 @@ No se requiere instalación adicional para `pickle`, ya que viene incluido con P
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/renatosanz/analizador Textos.git
+   git clone https://github.com/renatosanz/analizadorTextos.git
    cd analizadorTextos
    ```
 
